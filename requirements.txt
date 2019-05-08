@@ -1,0 +1,6 @@
+# Pip requirements file
+
+requests
+paho-mqtt
+six
+futures
